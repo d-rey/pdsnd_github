@@ -2,18 +2,22 @@
 
 ### Date created
 Include the date you created this project and README file.
-25 September 2021
+#### 25 September 2021
 
 ### Project Title
 Replace the Project Title
-Bikeshare
+#### Udacity Git Course Project
 
 ### Description
 Describe what your project is about and what it does
-Udacity Git Course Project 
+#### This project is final portion of the Introduction to Version Control - the final lesson of the Programming for Data Science with Python Nanodgree Program at Udacity.
 
 ### Files used
 Include the files used
+#### bikeshare_2.py
+#### .gitignore
+#### README.md
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+#### https://github.com/udacity/pdsnd_github
