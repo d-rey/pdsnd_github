@@ -10,6 +10,7 @@ Bikeshare
 
 ### Description
 Describe what your project is about and what it does
+Udacity Git Course Project 
 
 ### Files used
 Include the files used
